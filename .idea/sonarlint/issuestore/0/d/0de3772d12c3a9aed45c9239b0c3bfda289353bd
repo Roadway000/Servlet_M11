@@ -1,0 +1,29 @@
+
+j
+java:S11926"MDefine a constant instead of duplicating this literal "lastTimezone" 3 times.(ƒÊš‡8å•ô´æ1
+f
+java:S2583@"DChange this condition so that it does not always evaluate to "false"(ä—ˆäşÿÿÿÿ8ƒ–ô´æ1
+\
+java:S1161":Add the "@Override" annotation above this method signature(×ÁÏ°ıÿÿÿÿ8–ô´æ1
+X	java:S125"<This block of commented-out lines of code should be removed.(¹é†8‘–ô´æ1
+X	java:S125"<This block of commented-out lines of code should be removed.(×àğÈ8‘–ô´æ1
+X	java:S125"<This block of commented-out lines of code should be removed.(ºñğ8‘–ô´æ1
+T
+java:S1135"2Complete the task associated to this TODO comment.(µŒªûÿÿÿÿ8‘–ô´æ1
+O
+java:S1135"2Complete the task associated to this TODO comment.(È£ò€8’–ô´æ1
+T
+java:S1135"2Complete the task associated to this TODO comment.(Éí»Æıÿÿÿÿ8’–ô´æ1
+r
+java:S1989%"PHandle the following exception that could be thrown by "getWriter": IOException.(ş¢Ø™øÿÿÿÿ8’–ô´æ1
+X	java:S125*"<This block of commented-out lines of code should be removed.(Ù¼ÛÉ8”–ô´æ1
+T
+java:S1135)"2Complete the task associated to this TODO comment.(ŒŞ¢§øÿÿÿÿ8”–ô´æ1
+G	java:S1069"+Replace this use of System.out by a logger.(ÆÀûı8™–ô´æ1
+v
+java:S1989A"YHandle the following exception that could be thrown by "parseInt": NumberFormatException.(‚¾ıÙ8š–ô´æ1
+X	java:S125G"<This block of commented-out lines of code should be removed.(Çó…¸8–ô´æ1
+T
+java:S1135F"2Complete the task associated to this TODO comment.(åê’ºıÿÿÿÿ8–ô´æ1
+_
+java:S1128"BRemove this unused import 'jakarta.servlet.annotation.WebServlet'.(½¢¢¸8¹„ş€ç1

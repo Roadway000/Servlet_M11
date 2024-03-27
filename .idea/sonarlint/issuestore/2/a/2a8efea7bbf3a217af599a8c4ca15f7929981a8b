@@ -1,0 +1,21 @@
+
+E
+java:S1948"(Make "engine" transient or serializable.(º™š»8ÛÂ‚¿æ1
+N
+java:S1948",Make "repository" transient or serializable.(÷À©¬ùÿÿÿÿ8Ÿ»Ô£ç1
+m
+java:S19892"PHandle the following exception that could be thrown by "getWriter": IOException.(¯ªÚ²8ýš±¿æ1
+m
+java:S19893"PHandle the following exception that could be thrown by "getWriter": IOException.(ïÕ‡ú8þš±¿æ1
+„
+java:S1989:"bHandle the following exceptions that could be thrown by "doDelete": ServletException, IOException.(ßø°êüÿÿÿÿ8œÅµ¿æ1
+u
+java:S1989C"SHandle the following exception that could be thrown by "sendRedirect": IOException.(ˆå¥¨úÿÿÿÿ8Úê°¿æ1
+u
+java:S1989O"SHandle the following exception that could be thrown by "sendRedirect": IOException.(ˆå¥¨úÿÿÿÿ8£Åµ¿æ1
+O
+java:S1128"-Remove this unused import 'java.util.Arrays'.(î–˜Éüÿÿÿÿ8Õ»Ô£ç1
+V
+java:S1128"4Remove this unused import 'java.util.LinkedHashMap'.(ò†ŠÞùÿÿÿÿ8Ö»Ô£ç1
+O
+java:S1128"-Remove this unused import 'java.util.Random'.(èøÉ›ùÿÿÿÿ8Ö»Ô£ç1
